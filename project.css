@@ -1,0 +1,105 @@
+.sec1,.sec3,.sec7{
+    background-color: cornflowerblue;
+
+}
+.inbox1{
+    /* background-color: deepskyblue; */
+   
+    text-align: center;
+    padding: 250px 0px;
+    color: aliceblue;
+}
+.inbox2,.inbox3{
+    /* background-color: deepskyblue; */
+    min-height: 100px;
+    text-align: center ; 
+    padding: 10px;
+    margin: auto;
+}
+.inbox4,.inbox5,.inbox6,.inbox7{
+    background-color: cornflowerblue;
+    height: 50px;
+    text-align: center;
+    color: aliceblue;
+    padding: 10px;
+
+    
+}
+.inbox8{
+    background-color: cornflowerblue;
+    height: 34px;
+    width: 200px;
+    /* float: left; */
+    text-align: center;
+    color: aliceblue;
+}
+.inbox9{
+    background-color: cornflowerblue;
+    height: 50px;
+    text-align: center;
+}
+.inbox10,.inbox11,.inbox12,.inbox13{
+    /* background-color: cornflowerblue; */
+    height: 50px;
+    text-align: center;
+}
+.inbox14,.inbox19{
+    /* background-color: darkseagreen; */ 
+    text-align: center;  
+}
+.inbox16{
+    background-color: cornflowerblue;
+    height: 200px;
+    text-align: center;  
+    padding: 25%;
+}
+.inbox15{
+    /* background-color: cornflowerblue; */
+    height: 200px;
+    text-align: center;  
+}
+.inbox17{
+    /* background-color: cornflowerblue; */
+    min-height: 200px;
+    text-align: center; 
+    margin-top: 20px;
+}
+.inbox18{
+    /* background-color: cornflowerblue; */
+    text-align: center;
+}
+.inbox19{
+    margin-top: 20px; 
+}
+.inbox20{
+    background-color: cornflowerblue;
+    height: 150px;
+}
+.spa1{
+    background-color: cornflowerblue;
+
+}
+.inbox21{
+    background-color: transparent;
+    /* height: 50px; */
+}
+.inbox22{
+    background-color: transparent;
+    height: 80px;
+}
+.form-control{
+    height: 50px;
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+.net{
+    height: 100px;
+}
+
+@media(max-width:356px){
+    .net{
+        width: 100%;
+        height: auto;
+    }
+}
